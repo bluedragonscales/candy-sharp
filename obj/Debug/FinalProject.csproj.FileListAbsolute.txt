@@ -1,0 +1,8 @@
+C:\Users\kckar\Desktop\UW-foundations-programming\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\kckar\Desktop\UW-foundations-programming\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\kckar\Desktop\UW-foundations-programming\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\kckar\Desktop\UW-foundations-programming\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\kckar\Desktop\UW-foundations-programming\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\kckar\Desktop\UW-foundations-programming\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\kckar\Desktop\UW-foundations-programming\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\kckar\Desktop\UW-foundations-programming\FinalProject\obj\Debug\FinalProject.pdb
