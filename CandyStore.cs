@@ -146,10 +146,10 @@ namespace FinalProject
         }
 
 
+        //User can see what they have in their cart so far. The statement "candyPrice * candyStock" is the 
+        //total dollar value for that item.
         public void ShowCart()
         {
-            //User can see what they have in their cart so far. The ending statement "candyPrice * candyStock" is the 
-            //total value for that item.
             foreach (var cart in shoppingCart)
             {
                 Console.WriteLine("{0, -17} | {1, -4} | {2:C2} | {3}", cart.candyName, cart.candyStock, cart.candyPrice * cart.candyStock, cart.itemNumber);
@@ -157,6 +157,9 @@ namespace FinalProject
         }
 
 
+        //This is the final message to the user when they decide to Q)uit. If they have candy in their cart,
+        //the dollar total will be added for them to see as the checkoutTotal. If there are no candies in their
+        //cart then no dollar total will be shown.
         public void Checkout()
         {
             Console.WriteLine("\nThank you for shopping at Candy#!");
